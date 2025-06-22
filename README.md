@@ -1,4 +1,4 @@
-# SupplyChainPro
+# Logistics Assistant Dashboard
 
 A comprehensive supply chain management dashboard built with React, TypeScript, and Convex. Track suppliers, inventory, shipments, and get real-time insights into your logistics operations.
 
